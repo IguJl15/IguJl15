@@ -1,5 +1,8 @@
 <h1>Yoo, I'm Igor</h1>
-<p>A great friend and FullStack Mobile Developer</p>
+<h4>A great friend and FullStack Mobile Developer</h4>
+
+<hr>
+
 <h2>🚀 Languages and Tools I Use</h2>
 
 <P>
@@ -34,11 +37,15 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36" /></a>
 
+<hr>
+
 </p>
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/igor-julliano-aguiar_parar-de-perder-tempo-e-dar-voltas-procurando-activity-7166193204663468032-lAEp?utm_source=share&utm_medium=member_desktop">Our new project: Vaga Livre - An app that helps drivers find and reserve parking spots in real time</a></li>
 </ul>
+
+<hr>
 
 <h2>⚡️ Where to find me</h2>
 <p>
@@ -46,8 +53,10 @@
 </p>
 
 <h2>🤩 Some nice status</h2>
-<div style="display: flex; flex-wrap: wrap; gap: .5rem;">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IguJl15&" alt="IguJl15" /></p>
-    <p><img src="https://github-readme-status-tan.vercel.app/api/top-langs?username=IguJl15&show_icons=true&locale=en&layout=compact&hide=cmake,c%2b%2b,c%23,swift&size_weight=1&count_weight=0&langs_count=8" alt="IguJl15" /></p>
-</div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IguJl15&" alt="IguJl15" /></p>
+<p><img src="https://github-readme-status-tan.vercel.app/api/top-langs?username=IguJl15&show_icons=true&locale=en&layout=compact&hide=cmake,c%2b%2b,c%23,swift&size_weight=1&count_weight=0&langs_count=8" alt="IguJl15" /></p>
+
+<h3>🏆 Trophies</h3>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IguJl15" alt="IguJl15" /></a></p>
